@@ -1,0 +1,1 @@
+# nama_nim_Praktikum_AI_2

@@ -1,6 +1,6 @@
 Praktikum_Pencarian_Algoritma  
 
-Deskripsi  
+Deskripsi : 
 
 Repositori ini berisi implementasi berbagai algoritma pencarian menggunakan Python. Algoritma ini digunakan untuk menemukan jalur atau solusi dalam suatu ruang pencarian. Dalam proyek ini, kami menerapkan berbagai metode pencarian, baik yang tidak menggunakan informasi tambahan (uninformed search) maupun yang memanfaatkan informasi heuristik (informed search).  
 
